@@ -1,4 +1,4 @@
-# Flipr - Java Full Stack Project
+## Flipr - Java Full Stack Project
 
 
 
