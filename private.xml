@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Flipr/web/index.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Flipr/web/admin_login.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Flipr/src/java/dto/NewsletterDTO.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Flipr/web/addProject.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Flipr/src/java/controller/ClientChecker.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Flipr/src/java/dto/ProjectDTO.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Flipr/src/java/dao/ClientDAO.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Flipr/web/addClient.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Flipr/web/subscribers.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Flipr/web/admin.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Flipr/web/projects.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Flipr/src/java/dto/ContactDTO.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Flipr/src/java/dao/ProjectDAO.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Flipr/web/contact.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Flipr/web/error.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Flipr/src/java/controller/NewsletterChecker.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Flipr/src/java/controller/ContactChecker.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Flipr/web/clients.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Flipr/src/java/controller/AdminLoginChecker.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Flipr/src/java/dto/ClientDTO.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Flipr/src/java/dao/ContactDAO.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Flipr/src/java/controller/ProjectChecker.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Flipr/web/newsletter.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/Flipr/src/java/dao/NewsletterDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
